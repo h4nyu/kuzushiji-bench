@@ -6,6 +6,8 @@ authors = ["Your Name <you@example.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+torch = "^1.8.0"
+kaggle = "^1.5.10"
 
 [tool.poetry.dev-dependencies]
 
